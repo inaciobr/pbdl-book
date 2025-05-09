@@ -1,5 +1,5 @@
 format: jb-book
-root: intro.md
+root: intro.md # DONE
 parts:
 - caption: Introduction
   chapters:
@@ -69,5 +69,5 @@ parts:
 - caption: End Matter
   chapters:
   - file: outlook.md
-  - file: references.md
+  - file: references.md # DONE
   - file: notation.md
